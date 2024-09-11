@@ -1,5 +1,5 @@
-# Student name
-# Current date
+# Joshua Phillips
+# 9/11/24
 # String Concatenation
 
 # Part 1

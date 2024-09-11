@@ -1,4 +1,5 @@
 # Concatenation Practice
+# Joshua & 
 
 
 # Work with your assigned partner
@@ -9,8 +10,11 @@
 # Part 1
 # Create variables to store your first, middle, and last name
 # Have Python print a message that contains your concatenated full name, i.e., your combined first, middle and last names
-
-
+first = ('Joshua')
+middle = ('James')
+last = ('Phillips')
+full_name = first + '' + middle + '' + last
+print(f'Hemmo my name is: {full_name}')
 
 # Part 2
 # Assume you're building a Space Invaders game
